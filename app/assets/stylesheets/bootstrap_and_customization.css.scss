@@ -1,0 +1,15 @@
+$font-family-sans-serif:        #Helvetica Neue;
+$body-bg: #bdc3c7;
+$navbar-inverse-link-color: black;            
+$navbar-inverse-bg:  #7f8c8d;
+$brand-primary: #8e44ad;
+
+@import 'bootstrap';
+
+.center {
+     text-align: center;
+}
+
+.navbar-brand {
+	font-weight: bold;
+}
